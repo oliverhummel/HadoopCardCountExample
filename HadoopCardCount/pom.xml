@@ -56,7 +56,7 @@
 							<archive>
 								<manifest>
 									<mainClass>
-										de.hsma.bdea.CardCount
+										de.hs_mannheim.informatik.bdea.CardCount
 									</mainClass>
 								</manifest>
 							</archive>
