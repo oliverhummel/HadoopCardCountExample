@@ -1,2 +1,2 @@
 # HadoopCardCountExample
-Ein einfaches Hadoop-Beispiel, um mit Map/Reduce simulierte Spielkarten zu zählen.
+Ein einfaches Hadoop-Beispiel, um simulierte Spielkarten mit einem Map/Reduce-Job  zu zählen.
